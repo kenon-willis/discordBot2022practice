@@ -6,6 +6,7 @@ import discord
 import random
 from discord.ext import commands
 #added a comment
+#added another comment
 intents = discord.Intents.all()
 
 #store the built in discord help commands into a variable
